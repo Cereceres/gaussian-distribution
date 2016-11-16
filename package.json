@@ -1,0 +1,32 @@
+{
+  "name": "gaussian-pdf",
+  "version": "0.0.1",
+  "description": "get a gaussian normal distribution from a uniform distribution",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/gaussian-distribution.git"
+  },
+  "keywords": [
+    "gaussian",
+    "normal",
+    "random",
+    "uniform",
+    "pdf"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/gaussian-distribution/issues"
+  },
+  "homepage": "https://github.com/Cereceres/gaussian-distribution#readme",
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
