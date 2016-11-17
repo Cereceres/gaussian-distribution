@@ -16,7 +16,7 @@ The function receive the mu and sigma params to normal distribution, default val
 mu = 0 and sigma = 1.
 
 If we do a plot using the plot-distribution module we obtain: 
-
+```bash
 -2.00******
 -1.90*******
 -1.80******
@@ -57,3 +57,4 @@ If we do a plot using the plot-distribution module we obtain:
 1.70*******
 1.80******
 1.90****
+```
