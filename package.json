@@ -1,6 +1,6 @@
 {
   "name": "gaussian-pdf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get a gaussian normal distribution from a uniform distribution",
   "main": "index.js",
   "directories": {
